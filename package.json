@@ -1,0 +1,26 @@
+{
+  "name": "truffle-health-backend-assessment",
+  "version": "1.0.0",
+  "description": "Simple node application to demonstrate backend skills for Software Engineering Internship at Truffle Health",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barotjay998/truffle-health-backend-assessment.git"
+  },
+  "author": "jay_barot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barotjay998/truffle-health-backend-assessment/issues"
+  },
+  "homepage": "https://github.com/barotjay998/truffle-health-backend-assessment#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.4.2",
+    "supertest": "^6.3.3"
+  }
+}
